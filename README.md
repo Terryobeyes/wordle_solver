@@ -1,5 +1,6 @@
 # wordle_solver
 使用最佳策略解 [wordle](https://www.nytimes.com/games/wordle/index.html) (一般模式)，保證 5 次以內解出。另外也提供自問自答。
+
 以 salet 作為開頭，平均需要猜 3.412 次。
 
 解法參考自
