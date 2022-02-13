@@ -33,4 +33,5 @@ Wordle 的題目只會出 wordle_list.txt 裡面的 2315 種單字
 有任何問題或建議，歡迎在 github 這邊或是我的 [巴哈創作](https://home.gamer.com.tw/creationDetail.php?sn=5387568) 留言。
 
 歡迎分享。轉貼或複製程式碼，請附上本 github 網址，謝謝。
+
 (已放上 MIT License)
