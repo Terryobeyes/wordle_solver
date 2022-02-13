@@ -3,7 +3,7 @@
 
 以 salet 作為開頭，平均需要猜 3.412 次。
 
-解法參考自
+解法引自
 http://sonorouschocolate.com/notes/index.php?title=The_best_strategies_for_Wordle
 
 Wordle 的題目只會出 wordle_list.txt 裡面的 2315 種單字
