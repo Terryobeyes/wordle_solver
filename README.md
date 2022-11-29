@@ -11,7 +11,7 @@ Wordle 的題目只會出 wordle_list.txt 裡面的 2315 種單字
 取自於 https://github.com/alex1770/wordle/blob/main/wordlist_hidden
 
 ## 操作說明
-1. 下載 wordle_solver.py 和 wordle_list.txt，並放在同一個目錄。
+1. 下載 wordle_solver.py 和 wordle_tree.txt，並放在同一個目錄。
 <br> (不方便執行 python 程式的可以利用線上編譯器 https://www.online-python.com/)
 <br> (如果不知道怎麼用的話請自立自強)
 2. 執行 wordle_solver.py
